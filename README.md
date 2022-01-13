@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Abhii-1999
-- 👀 I’m interested in Programing and database manageme
-- 🌱 I’m currently learning Python
-- 📫 How to reach me abhijeethiwale0077@gmail.com
+- 👋 Hi, I’m Abhii
+- 👀 I’m interested in Programing and database management
+- 🌱 I’m currently learning MERN Stack
+- 📫 How to reach me abhijeethiwalemail@gmail.com
 
 <!---
 Abhii-1999/Abhii-1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
